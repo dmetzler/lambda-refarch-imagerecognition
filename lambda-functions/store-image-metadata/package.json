@@ -8,6 +8,7 @@
   "license": "Apache-2",
   "dependencies": {
     "aws-appsync": "^4.1.2",
+    "graphql": "^14.7.0",
     "graphql-tag": "^2.12.5",
     "isomorphic-fetch": "^3.0.0"
   }
