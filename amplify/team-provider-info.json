@@ -1,2 +1,26 @@
 {
+  "main": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-photoshare-main-224323-authRole",
+      "UnauthRoleArn": "arn:aws:iam::217953376718:role/amplify-photoshare-main-224323-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::217953376718:role/amplify-photoshare-main-224323-authRole",
+      "Region": "eu-west-1",
+      "DeploymentBucketName": "amplify-photoshare-main-224323-deployment",
+      "UnauthRoleName": "amplify-photoshare-main-224323-unauthRole",
+      "StackName": "amplify-photoshare-main-224323",
+      "StackId": "arn:aws:cloudformation:eu-west-1:217953376718:stack/amplify-photoshare-main-224323/8725e680-8479-11ec-a049-0afa9c94b07f",
+      "AmplifyAppId": "d3dmmm46dkz8fw"
+    },
+    "categories": {
+      "auth": {
+        "photoshareb143529b": {}
+      },
+      "function": {
+        "S3Trigger984fb593": {
+          "deploymentBucketName": "amplify-photoshare-main-224323-deployment",
+          "s3Key": "amplify-builds/S3Trigger984fb593-68383265326d6b784177-build.zip"
+        }
+      }
+    }
+  }
 }
